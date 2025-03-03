@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import Main from './Main';
 import TaskList from './TaskList';
-import App from './App';
+// import App from './App';
 
 import reportWebVitals from './reportWebVitals';
 
